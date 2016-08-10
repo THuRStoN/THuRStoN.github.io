@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    THuRStoN -- Code Monkey -- https://twitter.com/_THuRStoN_
 
 # THANKS
 
-    <name>
+    Everybody
 
 # TECHNOLOGY COLOPHON
 
