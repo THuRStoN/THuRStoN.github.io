@@ -1,2 +1,3 @@
-# THuRStoN.github.io  
-My personal “website”.  conceiro.com >> thurston.github.com
+# THuRStoN.github.io
+My personal “website”.  thurston.github.io >> conceiro.com
+
