@@ -1,5 +1,46 @@
 # www.robotstxt.org/
 
-# Allow crawling of all content
-User-agent: *
+User-agent: ia_archiver # Internet Archive
+Disallow: /
+
+User-agent: Applebot-Extended # Apple Intelligence crawler
+Disallow: /
+
+User-agent: anthropic-ai # Anthropic & Claude
+Disallow: /
+
+User-agent: Claude-Web # Anthropic & Claude
+Disallow: /
+
+User-agent: ClaudeBot # Anthropic & Claude
+Disallow: /
+
+User-agent: CCbot # Common Crawl, often used to train AI models
+Disallow: /
+
+User-agent: FacebookBot # Facebook AI crawler
+Disallow: /
+
+User-agent: Google-Extended # Google AI Crawler
+Disallow: /
+
+User-agent: GPTBot # OpenAI's ChatGPT
+Disallow: /
+
+User-agent: Bytespider # ByteDance's AI crawler
+Disallow: /
+
+User-agent: cohere-ai # Mysterious crawler by Cohere AI
+Disallow: /
+
+User-agent: PiplBot # Creepy Pipl crawler
+Disallow: /
+
+User-agent: Diffbot # Mass AI crawler
+Disallow: /
+
+User-agent: * # Allow crawling of all content
 Disallow:
+
+# Sitemap: https://conceiro.com/sitemap.xml
+
